@@ -14,6 +14,6 @@
 1. [Helena Gao](https://open.spotify.com/artist/2s2ztYpVGqV3BWDbAcd35h)
 2. [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH)
 3. [mekakushe](https://open.spotify.com/artist/0CWyD7hgBLQ7dIUGEDkAWz)
-4. [君島大空](https://open.spotify.com/artist/5rjahCZtY8h4y2EHCnpgtQ)
-5. [lilbesh ramko](https://open.spotify.com/artist/5bdiD2ANkGjawGUiBFYmRu)
+4. [lilbesh ramko](https://open.spotify.com/artist/5bdiD2ANkGjawGUiBFYmRu)
+5. [君島大空](https://open.spotify.com/artist/5rjahCZtY8h4y2EHCnpgtQ)
 <!-- SPOTIFY_TOP_ARTISTS:END -->
