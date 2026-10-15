@@ -6,9 +6,9 @@ https://sakasasakasu.github.io/atcoder/
 <!-- SPOTIFY_TOP_TRACKS:START -->
 1. [wo sao ni](https://open.spotify.com/track/6mQ9t3pGmAxFyqkMs8qKXp) - **Helena Gao**
 2. [Eva](https://open.spotify.com/track/6CaqBWbpEp2mnYdrF5BI7J) - **行方不明者リスト**
-3. [That Is Like You](https://open.spotify.com/track/7vNsAEOaGoDDnvuWm97iTO) - **Kaitlyn Aurelia Smith**
-4. [nan peng you](https://open.spotify.com/track/3K7wEeOTaJR5IS2LuDzvuY) - **Helena Gao**
-5. [bi bu shang ni](https://open.spotify.com/track/0nUdjHZl87z3iGCmJycors) - **Helena Gao**
+3. [nan peng you](https://open.spotify.com/track/3K7wEeOTaJR5IS2LuDzvuY) - **Helena Gao**
+4. [bi bu shang ni](https://open.spotify.com/track/0nUdjHZl87z3iGCmJycors) - **Helena Gao**
+5. [Perfect Pinterest Garden - Ninajirachi & underscores Remix](https://open.spotify.com/track/3huANgMZYFGwAD6qQzSNfi) - **Porter Robinson, Ninajirachi, underscores**
 <!-- SPOTIFY_TOP_TRACKS:END -->
 
 ### 🧑‍🎤 Top Artists (Spotify)
@@ -17,5 +17,5 @@ https://sakasasakasu.github.io/atcoder/
 2. [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH)
 3. [mekakushe](https://open.spotify.com/artist/0CWyD7hgBLQ7dIUGEDkAWz)
 4. [Kabanagu](https://open.spotify.com/artist/5za1QX51X1jaDRmPL7Um7P)
-5. [lilbesh ramko](https://open.spotify.com/artist/5bdiD2ANkGjawGUiBFYmRu)
+5. [Cyst](https://open.spotify.com/artist/6rykAKGU8NhN8Sbpe2MZkT)
 <!-- SPOTIFY_TOP_ARTISTS:END -->
