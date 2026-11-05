@@ -6,9 +6,9 @@ https://htk0.github.io/atcoder/
 <!-- SPOTIFY_TOP_TRACKS:START -->
 1. [芽](https://open.spotify.com/track/384ZyZsfshO20Yo37m8CfB) - **Kabanagu**
 2. [Knackered](https://open.spotify.com/track/54ySZZJ97QsQdydsTpsxuG) - **Cyst, Iglooghost, daisy***
-3. [Piranha (Flip)](https://open.spotify.com/track/3i2zLu6VOBdZ7le5K4U8BR) - **Oxis, torr**
-4. [丘にいる](https://open.spotify.com/track/35FZOpWTDoUSQFR7tLR7ks) - **Kabanagu**
-5. [荊姫](https://open.spotify.com/track/2w1SmJjTO43W2F1acKtTfl) - **Hakushi Hasegawa, HaHa And The Hairpins**
+3. [丘にいる](https://open.spotify.com/track/35FZOpWTDoUSQFR7tLR7ks) - **Kabanagu**
+4. [Piranha (Flip)](https://open.spotify.com/track/3i2zLu6VOBdZ7le5K4U8BR) - **Oxis, torr**
+5. [プロト](https://open.spotify.com/track/5YthmTuQNe3gb4UKAhFkKa) - **Kabanagu**
 <!-- SPOTIFY_TOP_TRACKS:END -->
 
 ### 🧑‍🎤 Top Artists (Spotify)
