@@ -17,5 +17,5 @@ https://htk0.github.io/atcoder/
 2. [Kabanagu](https://open.spotify.com/artist/5za1QX51X1jaDRmPL7Um7P)
 3. [Hakushi Hasegawa](https://open.spotify.com/artist/5DZqDIAqRSN8mBM0DoQwoi)
 4. [mekakushe](https://open.spotify.com/artist/0CWyD7hgBLQ7dIUGEDkAWz)
-5. [Cyst](https://open.spotify.com/artist/6rykAKGU8NhN8Sbpe2MZkT)
+5. [iVy](https://open.spotify.com/artist/70lDezP0StoGMa58IcLXCc)
 <!-- SPOTIFY_TOP_ARTISTS:END -->
