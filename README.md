@@ -16,6 +16,6 @@ https://htk0.github.io/atcoder/
 1. [Oxis](https://open.spotify.com/artist/3b3mTvNu2TQcbJSKrvsOYb)
 2. [Kabanagu](https://open.spotify.com/artist/5za1QX51X1jaDRmPL7Um7P)
 3. [Hakushi Hasegawa](https://open.spotify.com/artist/5DZqDIAqRSN8mBM0DoQwoi)
-4. [mekakushe](https://open.spotify.com/artist/0CWyD7hgBLQ7dIUGEDkAWz)
-5. [iVy](https://open.spotify.com/artist/70lDezP0StoGMa58IcLXCc)
+4. [iVy](https://open.spotify.com/artist/70lDezP0StoGMa58IcLXCc)
+5. [mekakushe](https://open.spotify.com/artist/0CWyD7hgBLQ7dIUGEDkAWz)
 <!-- SPOTIFY_TOP_ARTISTS:END -->
