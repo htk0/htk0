@@ -8,7 +8,7 @@ https://htk0.github.io/atcoder/
 2. [Piranha (Flip)](https://open.spotify.com/track/3i2zLu6VOBdZ7le5K4U8BR) - **Oxis, torr**
 3. [荊姫](https://open.spotify.com/track/2w1SmJjTO43W2F1acKtTfl) - **Hakushi Hasegawa, HaHa And The Hairpins**
 4. [丘にいる](https://open.spotify.com/track/35FZOpWTDoUSQFR7tLR7ks) - **Kabanagu**
-5. [ぼろ](https://open.spotify.com/track/62QTRvTEAtHXVUzj3i9DPf) - **Kabanagu**
+5. [プロト](https://open.spotify.com/track/5YthmTuQNe3gb4UKAhFkKa) - **Kabanagu**
 <!-- SPOTIFY_TOP_TRACKS:END -->
 
 ### 🧑‍🎤 Top Artists (Spotify)
